@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Muhammad Anas Khan`
+- **CCID:** `1857902`
 
 ## References and Resources
 
